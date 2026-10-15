@@ -1,0 +1,9 @@
+Flask==3.0.3
+flask-cors==4.0.1
+PyMySQL==1.1.1
+python-dotenv==1.0.1
+google-generativeai==0.8.3
+requests==2.32.3
+marshmallow==3.21.3
+cryptography==43.0.3
+Werkzeug==3.0.6
