@@ -318,6 +318,37 @@ The project documentation lists these portals as starting points. Confirm each l
 - [EPDS Telangana](https://epds.telangana.gov.in/)
 
 Service-specific fees, eligibility, required documents, statutory deadlines, and processing times can change. This README does not independently certify those details. Verify them with the relevant official department or authorised service centre before submitting an application.
+## 📸 Application Screenshots
+
+Explore the **MeeSeva Mitra AI** interface, designed to make Telangana government services easier to understand and access.
+
+### 🏠 Home Page
+<img width="1917" height="975" alt="Home" src="https://github.com/user-attachments/assets/ae77414d-42ed-42f6-827a-ff8ad438d948" />
+
+
+### 🔎 Government Service Search
+<img width="1905" height="972" alt="services" src="https://github.com/user-attachments/assets/b96d4dd6-2763-4828-970f-4def80242048" />
+
+
+### తెలుగు Language Interface
+<img width="1917" height="937" alt="Telugu Interface" src="https://github.com/user-attachments/assets/2c0aa43e-90ee-45ec-b83e-77b33209c954" />
+
+
+### 🤖 AI Assistant
+<img width="1040" height="936" alt="AI Assisstant" src="https://github.com/user-attachments/assets/f6feed49-e84e-420a-9f38-9ce93612be32" />
+
+
+
+### Application Error checking feature
+<img width="1177" height="877" alt="Application error" src="https://github.com/user-attachments/assets/b5cfd429-c385-4a6b-a0a1-0ddbfe7845af" />
+
+
+
+###  Voice Assistant 
+<img width="1917" height="952" alt="Voice assistant" src="https://github.com/user-attachments/assets/531b7cc9-af47-4c6a-b02a-a9690240036d" />
+
+
+
 
 ## Known limitations and future work
 
